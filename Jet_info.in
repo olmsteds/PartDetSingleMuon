@@ -21,7 +21,7 @@ PtCut 30.0
 ApplyLooseID 1
 
 RemoveOverlapWithMuon1s 1
-RemoveOverlapWithMuon2s 0
+RemoveOverlapWithMuon2s 1
 Muon1MatchingDeltaR  0.3
 Muon2MatchingDeltaR  0.3
 
