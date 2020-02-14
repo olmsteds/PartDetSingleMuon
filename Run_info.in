@@ -10,7 +10,7 @@ MCPUHistName pileup
 
 ApplyTauIDSF false
 UsePileUpWeight true
-ApplyZBoostSF true
+ApplyZBoostSF false
 
 isData false
 ApplyGenWeight  true
